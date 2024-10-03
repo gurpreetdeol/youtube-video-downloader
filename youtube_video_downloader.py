@@ -21,7 +21,7 @@ def on_complete(stream, file_path):
 
 
 links = [
-    "https://www.youtube.com/watch?v=nKF8wCFBb8c"
+    "https://www.youtube.com/watch?v=nKF8wCFBb8c&t=1s"
 ]
 
 # "https://www.youtube.com/watch?v=8BqjFy7AHho",

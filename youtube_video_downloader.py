@@ -21,8 +21,11 @@ def on_complete(stream, file_path):
 
 
 links = [
-    "https://www.youtube.com/watch?v=nKF8wCFBb8c&t=1s"
+    "https://www.youtube.com/watch?v=cPmjQ9V6Hbk"
+    # "https://www.youtube.com/watch?v=01sAkU_NvOY"
+    # "https://www.youtube.com/watch?v=nKF8wCFBb8c&t=1s"
 ]
+
 
 # "https://www.youtube.com/watch?v=8BqjFy7AHho",
 # "https://www.youtube.com/watch?v=90Neau9RVrA",
@@ -55,7 +58,7 @@ links = [
 # "https://www.youtube.com/watch?v=MNfVs1JImpo&list=PL7rilRdYxlDuW2AV36RDOO3FpsM6ah0Gq&index=8&pp=iAQB",
 # "https://www.youtube.com/watch?v=8xNegjbcrHg&list=PL7rilRdYxlDuW2AV36RDOO3FpsM6ah0Gq&index=9&pp=iAQB",
 # "https://www.youtube.com/watch?v=GaFrQd-solM&list=PL7rilRdYxlDuW2AV36RDOO3FpsM6ah0Gq&index=10&pp=iAQB"
-
+#
 def download(links):
     global name
     for link in links:

@@ -1,11 +1,13 @@
 from pytube import YouTube
 
 # where to save
-SAVE_PATH = "E:/" #to_do
+SAVE_PATH = "C:/Downloads" #to_do
 
 # link of the video to be downloaded
 # opening the file
-link= ["https://www.youtube.com/watch?v=01sAkU_NvOY"] #open('links_file.txt','r')
+link= [
+    "",
+]
 
 for i in link:
     try:
